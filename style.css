@@ -1,34 +1,12 @@
 <style>
-  .cute-text {
-    color: #ffaa00;
+  .base-background {
+    color-background: #3C010E;
+  }
+  .cute-color{
+    color: #2FC0FA;
+  }
+  .decent-color{
+    color: #2FFA6A;
   }
 
-  h2 {
-    font-family: Lobster;
-    background-color: #ff80aa;
-    text-align: center;
-
-  }
-
-  p {
-    font-size: 16px;
-    font-family: Monospace;
-  }
-
-  .thick-green-border {
-    border-color: green;
-    border-width: 10px;
-    border-style: solid;
-    border-radius: 50%;
-  }
-
-  .smaller-image {
-    width: 100px;
-  }
-  
-  .displayed {
-    display: block;
-    margin-left: auto;
-    margin-right: auto 
-  }
 </style>
