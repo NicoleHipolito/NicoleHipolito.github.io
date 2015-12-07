@@ -1,12 +1,15 @@
 <style>
-  .base-background {
-    color-background: #3C010E;
+  .base-background{
+    background-color: #3C010E;
   }
   .cute-color{
     color: #2FC0FA;
   }
   .decent-color{
     color: #2FFA6A;
+  }
+  .cool-font{
+    font-family: Lobster;
   }
 
 </style>
