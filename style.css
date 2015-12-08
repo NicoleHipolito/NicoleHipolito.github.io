@@ -33,7 +33,6 @@
 	height: 5%;
 	width: 90%;
 	float: left;
-	padding: 5px;
 	margin-top: 5px;
 	margin-bottom: 5px;
 	font-family: 'Josefin Slab', serif;
@@ -47,8 +46,6 @@
 	width:90%;
 	height: 85%;
 	background-color: #FFFFFF;
-	float:left;
-	padding:10px; 
 	font-family: 'Josefin Slab', serif;
    }
    #paragraph{
@@ -64,6 +61,5 @@
 	text-align:center;
 	width:90%;
 	height: 10%;
-	padding:10px;
 	font-family: 'Josefin Slab', serif;
 	}
