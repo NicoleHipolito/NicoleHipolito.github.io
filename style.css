@@ -1,15 +1,56 @@
-<style>
-  .base-background{
-    background-color: #3C010E;
-  }
-  .cute-color{
-    color: #2FC0FA;
-  }
-  .decent-color{
-    color: #2FFA6A;
-  }
-  .cool-font{
-    font-family: Lobster;
+  @charset "utf-8";
+
+  /* CSS Document */
+
+  .navy-background{
+    background-color: #0A0333;
   }
 
-</style>
+  .coral-color{
+    color: #f66f6f;
+  }
+
+  .olive-color{
+    color: #b49b31;
+  }
+
+  .teal-color{
+    color: #27bdaa;
+  }
+
+  .tan-background{
+    background-color: #e5d6b0;
+  }
+
+  .cool-font{
+    font-family: lobster, Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+  }
+
+  p.hidden {
+    border-style: hidden;
+  }
+
+  .image-background {
+    background-image: url("floral.png");
+  }
+
+  .add-margin{
+    margin-top: 80px;
+    margin-bottom: 80px;
+    margin-right: 100px;
+    margin-left: 100px;
+    padding-right: 30px;
+    padding-left: 30px;
+  }
+
+  h3{
+   font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+  }
+
+  p{
+   font-family:"Times New Roman", Times, serif;
+  }
+
+  h1{
+    font-size: 100px;
+  }
