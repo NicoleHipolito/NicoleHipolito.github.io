@@ -35,14 +35,13 @@
     color: #131313;
     letter-spacing: .15em;
     text-shadow: 
-	1px -1px 0 #767676, 
-	-1px 2px 1px #737272, 
-	-2px 4px 1px #767474, 
-	-3px 6px 1px #787777, 
-	-4px 8px 1px #7b7a7a, 
-	-5px 10px 1px #7f7d7d, 
-	-6px 12px 1px #828181, 
-	-7px 14px 1px #868585, 
+	1px -1px 0 #99856b, 
+	-1px 2px 1px #7f6f59, 
+	-2px 4px 1px #665847, 
+	-3px 6px 1px #4c4235, 
+	-4px 8px 1px #332c23, 
+	-5px 10px 1px #191611, 
+	-6px 12px 1px #000000; 
   }
   #navigation {
 	border-style: outset;
