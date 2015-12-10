@@ -32,7 +32,7 @@
 	  }
   
   .elegantshadow {
-    color: #131313;
+    color: #99856b;
     letter-spacing: .15em;
     text-shadow: 
 	1px -1px 0 #99856b, 
@@ -41,7 +41,7 @@
 	-3px 6px 1px #4c4235, 
 	-4px 8px 1px #332c23, 
 	-5px 10px 1px #191611, 
-	-6px 12px 1px #b8b3ff; 
+	-6px 12px 1px #000000; 
   }
   #navigation {
 	border-style: outset;
