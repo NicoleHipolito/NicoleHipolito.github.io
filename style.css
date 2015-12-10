@@ -3,6 +3,9 @@
   a:link{
   	color: #000000;
   }
+  a:visited {
+    color: #00ffc0;
+}
   #main{
     margin-bottom: 80px;
     margin-right: 50px;
@@ -11,14 +14,13 @@
 	padding-left: 30px;
   }
   .background{
-  	background-color: #f0f7f7;
+  	background-color: #ffd1d1;
   }
   .title-color{
-  	color: #00ff99;
+  	color: #332c23;
   }
   #title {
-  	background-color: #e4d3ec;
-    color: #e2efef;
+  	background-color: #b3d4ff;
     text-align:center;
   	width: 100%;
   	font-family: 'Kaushan Script', cursive;
@@ -29,6 +31,7 @@
 	border-width: thin;
 	line-height: 30px;
 	background-color: #FFFFFF;
+	text-align: center;
 	height: 5%;
 	width: 90%;
 	padding: 10px;
@@ -55,11 +58,14 @@
 	border-style: outset;
 	border-width: thin;
 	margin-top: 15px;
-	background-color:black;
+	background-color: #3e4c4c;
 	color:white;
 	clear:both;
 	text-align:center;
 	width:90%;
 	height: 10%;
 	font-family: 'Josefin Slab', serif;
+	}
+	.header-font{
+		font-size: 20px;
 	}
