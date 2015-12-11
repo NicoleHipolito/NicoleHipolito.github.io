@@ -5,7 +5,11 @@
   }
   a:visited {
     color: #766060;
-}
+  }
+  a:hover   {
+  	color: #a59ea5;
+  	text-decoration:line-through;
+  }
   #main{
     margin-bottom: 80px;
     margin-right: 50px;
